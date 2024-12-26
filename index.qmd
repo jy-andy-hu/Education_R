@@ -1,0 +1,13 @@
+# Preface {.unnumbered}
+
+## What
+
+This collection is designed for my students or anyone who want to be productive and analytical with R. Many data and examples used in this work are either from various R libraries or public available datasets.
+
+## Why 
+
+Throughout my various teaching experiences, especially at the beginner's level, I noitced that (business analytics) students may find it awkward learn about R. This is quite interesting, because R is designed to be non-professional-programmer-centric and more data-analysis-centric. Overtime, I conclude that students would like to focus on data analysis as much as possible rather than learning all of the overhead about R, at least not when they start as a beginner. Therefore, I hope to build a collection that allows R users, especially new R users, to get productive with R as soon and effectively as possible. If they wish to pursue and become more professional with R, they would have a nice familiarity to move on. In other words, the focus here is to cut straight to solving data problems and conduct data analysis through various different practical projects. I understand how programatic I sound. Furthermore, this collection may seem quite possibly counter-intuitive for anyone who used to learn computing languages and wish to formally learn R in a traditional way. I deeply appreciate there many different approaches how to get someone started with a particular computing syntax/environment and each comes with their pros and cons.
+
+## How 
+
+This collection can be used independently on its own. All data are publicly avaiable and are clearly referenced, so that if you wish to try or replicate any of the projects here, you are fully equipped to do so.

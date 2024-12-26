@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: docs
+
+toc: true
+
+book:
+  title: "A Collection of Practical Projects with R"
+  subtitle: "For Anyone Who Wants to Be Productive and Analytical with R, Esp. New R Users"
+  author: "Jianyuan(Andy) Hu"
+  date: "2024-12-26"
+  chapters:
+    - index.qmd 
+    - First_Feel_About_R_UCB_Admission.qmd
+  page-navigation: true
+  page-footer: 
+    left: Created by Jianyuan(Andy) Hu, 2024 
+    right: |
+     This book was built with <a href="https://quarto.org/">Quarto</a>.
+  repo-url: https://github.com/jy-andy-hu/Education_R
+  repo-branch: main
+  repo-actions: issue
+
+format:
+  html:
+    theme: cosmo
+    toc: TRUE
+    toc-location: left
+    fontsize: "14"
+    code-fold: false
+    df-print: paged
+    embed-resources: true
+    number-depth: 2
+    author-meta: "Jianyuan(Andy) Hu"
